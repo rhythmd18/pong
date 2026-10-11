@@ -4,6 +4,10 @@ Clone of the 1972 Pong Game built using C and [SDL3](https://libsdl.org).
 ## Demo
 
 
+https://github.com/user-attachments/assets/b39c0f6b-8f8a-49d8-83db-c646202d09c4
+
+
+
 ## Prerequisites
 - Install a C/C++ compiler of your choice (I used the preinstalled Apple Clang. Any compiler works).
 - Install [CMake](https://github.com/Kitware/CMake).
