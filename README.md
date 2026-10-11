@@ -1,6 +1,9 @@
 # pong
 Clone of the 1972 Pong Game built using C and [SDL3](https://libsdl.org).
 
+## Demo
+
+
 ## Prerequisites
 - Install a C/C++ compiler of your choice (I used the preinstalled Apple Clang. Any compiler works).
 - Install [CMake](https://github.com/Kitware/CMake).
