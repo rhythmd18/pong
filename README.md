@@ -1,5 +1,5 @@
 # Pong
-Clone of the 1972 [Pong](https://en.wikipedia.org/wiki/Pong), a classic two-player game built using C and [SDL3](https://libsdl.org). 
+Clone of the 1972 [Pong](https://en.wikipedia.org/wiki/Pong), a classic two-player game built in C and [SDL3](https://libsdl.org). 
 
 ## Demo
 
